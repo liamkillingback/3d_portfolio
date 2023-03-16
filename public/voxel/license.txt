@@ -1,0 +1,11 @@
+Model Information:
+* title:	Voxel Computer Table
+* source:	https://sketchfab.com/3d-models/voxel-computer-table-c50f363574334c23816aef50055511aa
+* author:	THE_O_NAME (https://sketchfab.com/THE_O_NAME)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Voxel Computer Table" (https://sketchfab.com/3d-models/voxel-computer-table-c50f363574334c23816aef50055511aa) by THE_O_NAME (https://sketchfab.com/THE_O_NAME) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

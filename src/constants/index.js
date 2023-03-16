@@ -202,27 +202,7 @@ const testimonials = [
 ];
 
 const projects = [
-  {
-    name: "Diary",
-    description:
-      "Web app using Django that lets users log in and create diary entries. Uses SQL database and Django's built in user authentication.",
-    tags: [
-      {
-        name: "Python",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Django",
-        color: "green-text-gradient",
-      },
-      {
-        name: "SQLlite",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: Diary,
-    source_code_link: "https://github.com/liamkillingback/Diaryapp",
-  },
+  
   {
     name: "Photography",
     description:
@@ -245,24 +225,6 @@ const projects = [
     source_code_link: "https://github.com/liamkillingback/HarryCrosby",
   },
   {
-    name: "Wallpaper Generator",
-    description:
-    "Python program that uses Tkinter for a simple GUI. Scims a website and sets images to your desktop background with optional increments and genres.",
-    tags: [
-      {
-        name: "Python",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "tkinter",
-        color: "green-text-gradient",
-      },
-
-    ],
-    image: Wallpaper,
-    source_code_link: "https://github.com/liamkillingback/WebScrape",
-  },
-  {
     name: "Electical Company",
     description:
     "Company website for my small electrical company located in the mornington peninsula, SE of Melbourne",
@@ -280,6 +242,46 @@ const projects = [
     image: Electrics,
     source_code_link: "https://github.com/liamkillingback",
   },
+  {
+    name: "Diary",
+    description:
+      "Web app using Django that lets users log in and create diary entries. Uses SQL database and Django's built in user authentication.",
+    tags: [
+      {
+        name: "Python",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Django",
+        color: "green-text-gradient",
+      },
+      {
+        name: "SQLlite",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: Diary,
+    source_code_link: "https://github.com/liamkillingback/Diaryapp",
+  },
+  {
+    name: "Wallpaper Generator",
+    description:
+    "Python program that uses Tkinter for a simple GUI. Scims a website and sets images to your desktop background with optional increments and genres.",
+    tags: [
+      {
+        name: "Python",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tkinter",
+        color: "green-text-gradient",
+      },
+
+    ],
+    image: Wallpaper,
+    source_code_link: "https://github.com/liamkillingback/WebScrape",
+  },
+  
   
 ];
 
